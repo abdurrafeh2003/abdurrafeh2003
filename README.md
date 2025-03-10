@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdurrafeh2003
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on DSA
 - 📫 How to reach me abdurrafeh2003@gmail.com
 - 😄 Pronouns: he
